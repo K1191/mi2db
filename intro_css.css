@@ -1,0 +1,113 @@
+.intro
+{
+	color: blue;
+}
+
+.bigger
+{
+	text-align: center;
+	font-size: 14px;
+}
+
+@font-face
+{
+	font-family: 'pdos';
+	src: url('pdos.ttf' ) format('truetype');
+}
+
+a
+{
+	font-family: 'pdos';
+}
+
+p
+{
+	font-family: 'pdos';
+}
+
+h1
+{
+	font-family: 'pdos';
+}
+
+.souligne
+{
+	text-decoration: underline;
+}
+
+.barre
+{
+	text-decoration: line-through;
+}
+
+.ligne_dessus
+{
+	text-decoration: line-through;
+}
+
+.italique
+{
+	font-style: italic;
+}
+
+.gras
+{
+	font-weight: bold;
+}
+
+.centre
+{
+	text-align: center;
+}
+
+.justifier
+{
+	text-align: justify;
+}
+
+.droite
+{
+	text-align: right;
+}
+
+.gauche
+{
+	text-align: left;
+}
+
+.imgflotg
+{
+	float: left;
+}
+
+.imgflotd
+{
+	float: right;
+}
+
+.clearflot
+{
+	clear: both;
+}
+
+body
+{
+	background-color: black;
+	color: white;
+}
+
+.imgcenter
+{
+	margin: auto;
+}
+
+.mayipad
+{
+	padding-right: 30px;
+}
+
+.centreit
+{
+	text-align: center;
+	font-style: italic;
+}
